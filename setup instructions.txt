@@ -1,0 +1,12 @@
+1. virtualenv myvenv (pip install virtualenv)
+2. Virtualenv flask_api
+3. cd flask_api
+4. Create requirements file in flask_api directory
+pandas
+Flask
+scikit-learn
+gunicorn
+pytest
+
+5. pip3 install -r requirements.txt
+6. Create flask app.py file
